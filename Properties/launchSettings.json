@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SemanaDia": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
